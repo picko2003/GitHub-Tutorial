@@ -6,12 +6,25 @@
 .<br>
 .<br>
 # Regular way to commit git step:
-# git init
-# git add README.md
-# git commit -m "first commit"
-# git branch -M main
-# git remote add origin https://github.com/picko2003/"git Repo name".git
-# git push -u origin main (if not yet -type: git pull)
+# 1) git init
+# 2) git add README.md ( To add all file at a time type: git add .)
+# 3) git commit -m "first commit"
+# 4) git branch -M main ( To check branch type: git branch)
+# 5) git remote add origin "(copy the path and paste)"
+# 6) git push -u origin main(jodi sudhu git push origin main lekha hoy tahole bar bar eta likhtee hobe. R jodi -u likhi taholee er porer bar theke sudhu git push likhlei cholbe😊) (if not yet -type: git pull)
+.<br>
+.<br>
+.<br>
+.<br>
+.<br>
+.<br>
+.<br>
+.<br>
+# Update VS code folder or git ...> follow:
+# 1) git add .
+# 2) git commit -m"anything type"
+# 3) git push
+.<br>
 .<br>
 .<br>
 .<br>
